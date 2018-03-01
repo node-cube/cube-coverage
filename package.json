@@ -1,0 +1,13 @@
+{
+  "name": "cube-coverage",
+  "description": "the coverage processor for cube",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "istanbul-middleware": "0.2.2",
+    "lodash": "4.17.5"
+  }
+}
